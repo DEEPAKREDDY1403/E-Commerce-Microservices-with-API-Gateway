@@ -18,14 +18,14 @@ A complete microservices-based e-commerce backend system built with Node.js, Exp
 
 ##  Features
 
-- ✅ Microservices Architecture
-- ✅ API Gateway with routing
-- ✅ JWT Authentication
-- ✅ Role-Based Access Control (USER, ADMIN)
-- ✅ MongoDB Database
-- ✅ Swagger API Documentation
-- ✅ Docker Support
-- ✅ Service-to-Service Communication
+- Microservices Architecture
+- API Gateway with routing
+- JWT Authentication
+- Role-Based Access Control (USER, ADMIN)
+- MongoDB Database
+- Swagger API Documentation
+- Docker Support
+- Service-to-Service Communication
 
 ## Tech Stack
 
